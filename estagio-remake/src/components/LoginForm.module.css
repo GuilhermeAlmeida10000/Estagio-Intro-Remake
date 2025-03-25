@@ -1,6 +1,0 @@
-.custom-bg {
-    background-image: url('/images/background.jpg'); /* Caminho para a imagem */
-    background-size: cover; /* Ajusta a imagem para cobrir todo o contêiner */
-    background-position: center; /* Centraliza a imagem */
-    background-repeat: no-repeat; /* Evita repetição da imagem */
-  }

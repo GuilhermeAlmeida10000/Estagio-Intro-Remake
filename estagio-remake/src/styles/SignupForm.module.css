@@ -1,0 +1,13 @@
+.custom-bg {
+    background-image: url('../images/background.jpg'); /* Caminho para a imagem */
+    background-size: cover; /* Faz a imagem cobrir todo o espaço */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    height: 100vh; /* Garante que o fundo ocupe toda a altura da tela */
+    width: 100vw; /* Garante que o fundo ocupe toda a largura da tela */
+
+}
+
+.custom-card {
+    background-color: #e5ebf5; /* Cor de fundo do card */
+}
